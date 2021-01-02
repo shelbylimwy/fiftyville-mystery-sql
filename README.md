@@ -1,8 +1,8 @@
-# Fiftyville Mystery with SQL3
+# Fiftyville Mystery with SQL
 
 ## Summary
 
-In this project, I solved the fiftyville mystery using purely SQL3 commands to query information from a database called fiftyville.db.
+In this project, I solved the fiftyville mystery using purely SQL commands to query information from a database called fiftyville.db.
 
 ## Description
 
